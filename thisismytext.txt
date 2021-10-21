@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hELOO WHAT IS UP
+=======
+LOLOLOLOLOLOLOLLOLLOLOLOLOLOLOL
+>>>>>>> main
